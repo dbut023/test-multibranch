@@ -1,3 +1,3 @@
 node(""){
-  echo "master/A-Jenkinsfile"
+  echo "a-jenkinsfile/A-Jenkinsfile"
 }
